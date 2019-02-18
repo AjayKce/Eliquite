@@ -20,18 +20,18 @@ the college ERP modules.
 </ul>
 <hr />
 <hr />
-<h4>Creating Superuser</h4>
+<h3>Creating Superuser</h3>
 	This is the first level of the Application in which the full functionality is handled by an organisation. Here the organisation refers to me.
 The superusers are the users who develops and update the Application whenever a new modules is introduced.For the first time the Application will prompt
 ,username and password to authenticate the Application.
 <img src="screenshot/1.PNG" />
 <hr />
-<h4>Starting Page</h4>
+<h3>Starting Page</h3>
 	<br />
 	This is the starting page of my application which provides the login UI for superusers,college etc...
 <img src="screenshot/2.PNG" />
 <hr />
-<h4>Requesting Application Permission</h4>
+<h3>Requesting Application Permission</h3>
 	The college has to request the superuser to use this application for Education purpose
 <img src="screenshot/3.PNG" />
 <img src="screenshot/4.PNG" />
@@ -42,7 +42,7 @@ has to be send to the respective college mail<br/>
 <b>Login as superuser</b><br/>
 <img src="screenshot/6.PNG" />
 <hr/>
-<h4>Superuser Homepage</h4>
+<h3>Superuser Homepage</h3>
 	This superuser homepage is the panel for superuser to maintain the product such as confirming or rejecting the college requestion, Extending superuser
 and accessing all the data through console [we will discuss the console later]<br>
 <img src="screenshot/7.PNG" />
@@ -53,7 +53,7 @@ and accessing all the data through console [we will discuss the console later]<b
 <img src="screenshot/12.PNG" />
 <img src="screenshot/13.PNG" />
 <hr/>
-<h4>College Homepage</h4>
+<h3>College Homepage</h3>
 	College Module provide many functionality such as adding Admin ( here Admin refers to HOD ), Managing Admin, Creating Feedback , Scheduling periods etc..
 In our Module the College create an authentication for each department, Each department should has only one admin(HOD)
 <img src="screenshot/14.PNG" />
@@ -69,7 +69,7 @@ In our Module the College create an authentication for each department, Each dep
 We will discuss the Feedback and Attendance Module Later<br>
 As we create the Admin(HOD) , Its time to login with Admin and acheive some stuff....Lets do it geekies....
 <hr />
-<h4>College Homepage</h4>
+<h3>College Homepage</h3>
 <img src="screenshot/24.PNG" />
 <img src="screenshot/25.PNG" />
 	The Admin(HOD) module is a powerful module which provides many functionality such as creating batch, classroom, staffs , Allocating etc...<br>
@@ -209,7 +209,7 @@ can add resource for the particular handled subject. This resource can be downlo
 <img src="screenshot/94.PNG" />
 <img src="screenshot/95.PNG" />
 <hr>
-<h4>Student Homepage</h4>
+<h3>Student Homepage</h3>
 <br>
 	Now let we explore the student module and make the functionality available..<br><br>
 <img src="screenshot/96.PNG" />
@@ -241,7 +241,7 @@ of creating a group, adding resources to the group. Now anyone can access the re
 <img src="screenshot/113.PNG" />
 <img src="screenshot/114.PNG" />
 <br><br>
-<b>Now the student has successfully enrolled, Now go back to staff module and see what happens<br><br>
+<b>Now the student has successfully enrolled, Now go back to staff module and see what happens</b><br>
 <img src="screenshot/115.PNG" />
 <img src="screenshot/116.PNG" />
 <img src="screenshot/117.PNG" />
@@ -272,7 +272,7 @@ Here we note that only the students who enrolled this subject is listed down...<
 The feedback is an important process to confirm that the staff is good in teaching or presentation. The Feedback define the staffs quality for withstand the
 college for next semester or not.
 <hr>
-<h4>College Feedback Module</h4>
+<h3>College Feedback Module</h3>
 	In college feedback module , the college will create some feeds and allocate to the department. The feed allocated will only visible for students who are belongs
 to the specific department.<br><br>
 <img src="screenshot/136.PNG" />
@@ -330,5 +330,63 @@ Now student has successfully submited feedback, Now its time to collect the repo
 <img src="screenshot/175.PNG" />
 <img src="screenshot/176.PNG" />
 <img src="screenshot/177.PNG" />
+<hr/>
+<h3>Attendance Module</h3>
+	Now we came into an important module in which the college schedule the periods, the staff will provide the attendance for each students and the report is generated for
+each subjects.Here through attendance module we can know the student percentage for each subject.The college has the functionality of updating the attendance on account of
+<b>ON DUTY</b> Hours.....<br><br>
+<img src="screenshot/178.PNG" />
+<img src="screenshot/179.PNG" />
+<img src="screenshot/180.PNG" />
+<img src="screenshot/181.PNG" />
+<img src="screenshot/182.PNG" />
+<img src="screenshot/183.PNG" />
+<img src="screenshot/184.PNG" />
+<img src="screenshot/185.PNG" />
+<img src="screenshot/186.PNG" />
+<img src="screenshot/187.PNG" />
+<img src="screenshot/188.PNG" />
+<img src="screenshot/189.PNG" />
+<img src="screenshot/190.PNG" />
+<img src="screenshot/191.PNG" />
+<img src="screenshot/192.PNG" />
+<img src="screenshot/193.PNG" />
+<img src="screenshot/194.PNG" />
+<img src="screenshot/195.PNG" />
+<img src="screenshot/196.PNG" />
+<img src="screenshot/197.PNG" />
+<img src="screenshot/198.PNG" />
+<img src="screenshot/199.PNG" />
+<img src="screenshot/200.PNG" />
+<img src="screenshot/201.PNG" />
+<img src="screenshot/202.PNG" />
+<img src="screenshot/203.PNG" />
+<img src="screenshot/204.PNG" />
+<img src="screenshot/205.PNG" />
+<img src="screenshot/206.PNG" />
+<img src="screenshot/207.PNG" />
+<img src="screenshot/208.PNG" />
+<img src="screenshot/209.PNG" /><br><br>
+<h3>Console Module</h3>
+	The Application is fully maintained by superuser. So if there any fault in the application the superuser has to edit and update the changes..
+<br><br>
+<img src="screenshot/210.PNG" />
+<img src="screenshot/211.PNG" />
+<img src="screenshot/212.PNG" />
+<img src="screenshot/213.PNG" />
+<img src="screenshot/214.PNG" />
+<img src="screenshot/215.PNG" />
+<img src="screenshot/216.PNG" />
+<img src="screenshot/217.PNG" />
+<img src="screenshot/218.PNG" />
+<img src="screenshot/219.PNG" />
+<img src="screenshot/220.PNG" />
+<img src="screenshot/221.PNG" />
+<img src="screenshot/222.PNG" />
+And similar for all.............
+<center>Thankyou Guys!!!!!!!!!!!!!!!!!!!!!!!!!!</center>
+<br>
+
+	
 
 
