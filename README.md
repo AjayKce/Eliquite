@@ -19,6 +19,11 @@ the college ERP modules.
 <li>Giving feedback for each staff</li>
 </ul>
 <hr />
+<h3>Test Link</h3><br>
+<a href="http://ec2-3-92-174-57.compute-1.amazonaws.com:8080/">Click here</a><br>
+College: Karpagam College Of Engineering<br>
+username : AJAY<br>
+password : AJAYajay123!<br>
 <hr />
 <h3>Creating Superuser</h3>
 	This is the first level of the Application in which the full functionality is handled by an organisation. Here the organisation refers to me.
