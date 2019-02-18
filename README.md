@@ -209,5 +209,126 @@ can add resource for the particular handled subject. This resource can be downlo
 <img src="screenshot/94.PNG" />
 <img src="screenshot/95.PNG" />
 <hr>
+<h4>Student Homepage</h4>
+<br>
+	Now let we explore the student module and make the functionality available..<br><br>
+<img src="screenshot/96.PNG" />
+<img src="screenshot/97.PNG" /><br><br>
+	As a student the enrollment module is very important. The Enrollment decides the student to explore the resources provided by the staff and so on...<br><br>
+<img src="screenshot/98.PNG" />
+<img src="screenshot/99.PNG" /><br>
+<b>Note : </b> There are three subject but as a student AJAY , enrolled only two subjects...<br>
+We will discuss about feedback session later.
+<br><br>
+<u><b>Explore Resource</b></u><br>	
+	As AJAY has enrolled two subject he has the permission to access the resource uploaded by the staff for enrolled subjects.<br><br>
+<img src="screenshot/100.PNG" />
+<img src="screenshot/101.PNG" />
+<img src="screenshot/102.PNG" />
+<img src="screenshot/103.PNG" />
+<img src="screenshot/104.PNG" />
+<img src="screenshot/105.PNG" />
+<img src="screenshot/106.PNG" /><br><br>
+<u><b>Group Resource</b></u><br>
+	Consider a scenario that every students in one college can't able to share resources to the friends of other college. These webapp provides the functionality
+of creating a group, adding resources to the group. Now anyone can access the resources with the group name without even login to the webapp.<br><br>
+<img src="screenshot/107.PNG" />
+<img src="screenshot/108.PNG" />
+<img src="screenshot/109.PNG" />
+<img src="screenshot/110.PNG" />
+<img src="screenshot/111.PNG" />
+<img src="screenshot/112.PNG" />
+<img src="screenshot/113.PNG" />
+<img src="screenshot/114.PNG" />
+<br><br>
+<b>Now the student has successfully enrolled, Now go back to staff module and see what happens<br><br>
+<img src="screenshot/115.PNG" />
+<img src="screenshot/116.PNG" />
+<img src="screenshot/117.PNG" />
+<img src="screenshot/118.PNG" />
+<img src="screenshot/119.PNG" />
+<img src="screenshot/120.PNG" />
+<br/>
+Here we note that only the students who enrolled this subject is listed down...<br><br>
+<img src="screenshot/121.PNG" />
+<img src="screenshot/122.PNG" />
+<img src="screenshot/123.PNG" />
+	From Above we have allocated marks for one student. But allocating one by one is a tedious process. To overcome we will go through some other stuff.
+<br><br>
+<img src="screenshot/124.PNG" />
+<img src="screenshot/125.PNG" />
+<img src="screenshot/126.PNG" />
+<img src="screenshot/127.PNG" />
+<img src="screenshot/128.PNG" />
+<img src="screenshot/129.PNG" /><br>
+	Now we go for tutor module to check every students mark for particular subject.<br><br>
+<img src="screenshot/130.PNG" />
+<img src="screenshot/131.PNG" />
+<img src="screenshot/132.PNG" />
+<img src="screenshot/133.PNG" />
+<img src="screenshot/134.PNG" />
+<img src="screenshot/135.PNG" /><br>
+	Now we have a clear idea of student enrollment, setting marks and so on.. Now we dive into a new module called Feedback Module.<br>
+The feedback is an important process to confirm that the staff is good in teaching or presentation. The Feedback define the staffs quality for withstand the
+college for next semester or not.
+<hr>
+<h4>College Feedback Module</h4>
+	In college feedback module , the college will create some feeds and allocate to the department. The feed allocated will only visible for students who are belongs
+to the specific department.<br><br>
+<img src="screenshot/136.PNG" />
+<img src="screenshot/137.PNG" />
+<img src="screenshot/138.PNG" />
+<br>Note that after creating feedback group the button becomes in-active. This denotes that the feedback session has not started for respective department.
+We have to enable this button when feedback session gets started.<br><br>
+<img src="screenshot/139.PNG" />
+<img src="screenshot/140.PNG" />
+<img src="screenshot/141.PNG" />
+<img src="screenshot/142.PNG" />
+<img src="screenshot/143.PNG" />
+<img src="screenshot/144.PNG" />
+<img src="screenshot/145.PNG" /><br>
+Now the feedset is successfully Allocated , Now we have to enable the active button.
+<img src="screenshot/146.PNG" />
+<img src="screenshot/147.PNG" /><br>
+Now the feedback is successfully allocated and its time to logon to student module and give feedback for respective staffs who handle the enrolled subject.<br>
+<b>Note :</b>We have three staff but AJAY has only enrolled 2 subjects, So AJAY has permission to give feedback to 2 staffs only.<br><br>
+<img src="screenshot/148.PNG" />
+<img src="screenshot/149.PNG" />
+<img src="screenshot/150.PNG" />
+<img src="screenshot/151.PNG" />
+<img src="screenshot/152.PNG" />
+<img src="screenshot/153.PNG" /><br>
+Now AJAY as a Student has given feedback to 2 staffs , Similarily other students also give feedback to respective staffs who handle the enrolled subjects.<br>
+Now lets dive into college module and get the report of the individual staff.<br><br>
+<img src="screenshot/154.PNG" />
+<img src="screenshot/155.PNG" />
+<img src="screenshot/156.PNG" />
+<img src="screenshot/157.PNG" />
+<img src="screenshot/158.PNG" />
+<img src="screenshot/159.PNG" />
+<img src="screenshot/160.PNG" />
+<img src="screenshot/161.PNG" />
+<img src="screenshot/162.PNG" />
+<hr/>
+	Consider a scenario that department is conducting a wipro training progamme. Now the department needs a feedback for particular programme.Inorder to acheive that
+the department has to add some feeds and process the report from it...<br><br>
+<img src="screenshot/163.PNG" />
+<img src="screenshot/164.PNG" />
+<img src="screenshot/165.PNG" />
+<img src="screenshot/166.PNG" /><br>
+Now the feed is allocated , and its time to go back to student module and give feedback.<br>
+<br>
+<img src="screenshot/167.PNG" />
+<img src="screenshot/168.PNG" />
+<img src="screenshot/169.PNG" />
+<img src="screenshot/170.PNG" /><br>
+Now student has successfully submited feedback, Now its time to collect the report..<br><br>
+<img src="screenshot/171.PNG" />
+<img src="screenshot/172.PNG" />
+<img src="screenshot/173.PNG" />
+<img src="screenshot/174.PNG" />
+<img src="screenshot/175.PNG" />
+<img src="screenshot/176.PNG" />
+<img src="screenshot/177.PNG" />
 
 
