@@ -1,5 +1,5 @@
 # ELIQUITE
-Hello, Geekeee!!! I am Ajay V from Karpagam College of Engineering. I am very font of UI/UX design and I made this app for the better sake of Education.
+Hello, Geekeee!!! I am Ajay V from Karpagam College of Engineering. I am a UI/UX design enthusiasist and I made this app for the better sake of Education.
 Eliquite is a ERP Application which is a global authentication Application which provides the many modules such as attendance, feedback etc to satisfy
 the college ERP modules.
 <hr/>
