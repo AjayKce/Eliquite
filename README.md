@@ -20,7 +20,7 @@ the college ERP modules.
 </ul>
 <hr />
 <h3>Test Link</h3><br>
-<a href="http://ec2-3-92-174-57.compute-1.amazonaws.com:8080/">Click here</a><br>
+<a href="https://eliquite.herokuapp.com/">Click here</a><br>
 College: Karpagam College Of Engineering<br>
 username : AJAY<br>
 password : AJAYajay123!<br>
