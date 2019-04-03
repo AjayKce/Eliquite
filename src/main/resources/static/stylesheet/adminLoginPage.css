@@ -1,0 +1,35 @@
+@font-face {
+font-family: "grand";
+src: url("fonts/SciFly-Sans.ttf");
+}
+@font-face {
+font-family: "head";
+src: url("fonts/Library 3 am.otf");
+}
+
+.navbar-brand{
+	font-family:head;
+}
+
+th{
+font-family:grand;
+color:blue;
+font-size:18px;
+text-align:center;
+}
+td{
+font-size:12px;
+text-align:center;
+font-weight:bolder;
+}
+
+  .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #0D0092;
+    background-color: #EFF4FC;
+}
+
+.navbar{
+	border-radius:0px;
+	border-bottom:2px solid grey;
+	box-shadow:-3px 2px 12px #b9b9b9;
+}
