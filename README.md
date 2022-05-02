@@ -19,12 +19,6 @@ the college ERP modules.
 <li>Giving feedback for each staff</li>
 </ul>
 <hr />
-<h3>Test Link</h3><br>
-<a href="https://eliquite.herokuapp.com/">Click here</a><br>
-College: Karpagam College Of Engineering<br>
-username : AJAY<br>
-password : AJAYajay123!<br>
-<hr />
 <h3>Creating Superuser</h3>
 	This is the first level of the Application in which the full functionality is handled by an organisation. Here the organisation refers to me.
 The superusers are the users who develops and update the Application whenever a new modules is introduced.For the first time the Application will prompt
